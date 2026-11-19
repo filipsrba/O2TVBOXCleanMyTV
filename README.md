@@ -1,4 +1,4 @@
-# O2 TV: bezpečný launcher
+# O2 TV: Změna launcheru
 
 Český skill pro Codex: čtecí diagnostika O2/ZTE Android TV boxu přes ADB,
 samostatný launcher CleanYourTV a úzký návrat změn. Oneplay i operátorské
