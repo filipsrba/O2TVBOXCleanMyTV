@@ -1,0 +1,17 @@
+# Publish only the reviewed skill sources and repository documentation.
+# Add any new public file explicitly after reviewing its contents.
+/*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+/agents/*
+!/agents/openai.yaml
+!/references/
+/references/*
+!/references/device-profile.md
+!/references/install-and-rollback.md
+!/references/streaming-diagnostics.md
+!/scripts/
+/scripts/*
+!/scripts/collect_android_tv.py
