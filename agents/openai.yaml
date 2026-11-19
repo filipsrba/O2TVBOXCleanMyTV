@@ -1,0 +1,4 @@
+interface:
+  display_name: "O2 TV: bezpečný launcher"
+  short_description: "Diagnostika O2 boxu, launcher a bezpečný návrat"
+  default_prompt: "Použij $o2-tv-safe-launcher pro diagnostiku mého O2 TV boxu a bezpečné nastavení samostatného launcheru se zachováním Oneplay."
